@@ -1,0 +1,15 @@
+{"botOwner":"406334579272843264",
+ "botPrefix":"-",
+ "botToken":"ODA2MjQ2OTQwMjM2ODQwOTkx.YBmp-Q.3NJuUnAPWj_yM8gHva3kD-mN-eU",
+ "guildID":"804311060982005790",
+ "botseskanali":"805390873973489714",
+ "logChannelID":"806247690496114778",
+ "boosterRole":"804311061138374709",
+ "jailRole":"804311061154234374",
+ "whitelist":["GÜVENLİ ÜYE"],
+ "channelGuard":true,
+ "serverGuard":true,
+ "botGuard":true,
+ "banGuard":true,
+ "kickGuard":true
+}
